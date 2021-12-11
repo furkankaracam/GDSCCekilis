@@ -1,2 +1,1 @@
 # GDSCCekilis
-# GDSCCekilis
